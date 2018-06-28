@@ -29,7 +29,6 @@ $("#sleep-btn").on("click", (event) => {
 
 $("#feed-btn").on("click", (event) => {
   edward.hunger--
-  //edward.hunger();
   console.log("yum yum");
 });
 
